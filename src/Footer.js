@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return<> <footer>Module 1</footer>;
-  <h2>Modulessssssssss</h2>
+  <h2>Modulessssssssssssss</h2>
   </>
 };
 
