@@ -1,7 +1,7 @@
 import React from "react";
 
 const Footer = () => {
-  return<> <footer>Module 1</footer>;
+  return<> <footer>Module 2.1</footer>;
   <h2>Modulessssssssssssss</h2>
   </>
 };
