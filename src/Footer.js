@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return<> <footer>Module 2.2</footer>;
-  <h2>poojaaaa</h2>
+  <h2>heading</h2>
   </>
 };
 
